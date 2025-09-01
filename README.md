@@ -25,8 +25,6 @@ css/
   aos.css
   bootstrap.min.css
   styles.css
-font/
-  BucklaneScript_PERSONAL_USE_ONLY.otf
 image/
   [images]
 js/
@@ -44,10 +42,8 @@ js/
 - Change company name, services, and contact info in `index.html`.
 - Update images in the `image/` folder.
 - Modify styles in `css/styles.css`.
-- Add or update fonts in the `font/` folder.
 
 ## License
 This project is for personal and educational use. Some assets (fonts, images) may have their own licenses. Please check before using for commercial purposes.
 
----
-Made with ❤️ by Galaxy Team
+
